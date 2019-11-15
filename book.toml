@@ -1,0 +1,5 @@
+[book]
+authors = ["Saúl Ibarra Corretgé"]
+multilingual = false
+src = "src"
+title = "Test Handbook"
